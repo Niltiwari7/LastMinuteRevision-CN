@@ -116,7 +116,7 @@ ARP is Address Resolution Protocol. It is a network-level protocol used to conve
 ### Media Access Control (MAC) Address:
 
 MAC Addresses are unique 48-bits hardware number of a computer, which is embedded into network card (known as Network Interface Card) during the time of manufacturing.
-MAC is a type og physical address which is used to communicate or transfer the data from one computer to another computer
+MAC is a type of physical address which is used to communicate or transfer the data from one computer to another computer
 
 ---
 
